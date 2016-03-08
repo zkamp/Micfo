@@ -2,3 +2,38 @@
 body {
   background: white;
 }
+
+/* line 7, ../sass/styles.scss */
+header h1,
+header h2,
+header h3 {
+  color: #fff;
+}
+/* line 13, ../sass/styles.scss */
+header .header-box {
+  background: rgba(255, 255, 255, 0.3);
+}
+/* line 16, ../sass/styles.scss */
+header .header-box #free-demo {
+  background: transparent;
+  border: 1px solid white;
+  border-radius: 4px;
+}
+
+/* line 24, ../sass/styles.scss */
+.section-heading {
+  margin: 0 auto;
+}
+
+/* line 28, ../sass/styles.scss */
+.blurb {
+  text-align: center;
+}
+
+/* line 32, ../sass/styles.scss */
+.row {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: initial;
+}
